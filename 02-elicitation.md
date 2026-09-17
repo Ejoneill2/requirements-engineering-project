@@ -5,7 +5,7 @@
 3. Equipment technician
 4. Department administrator
 5. Equipment manager
-## 2. Stakejolder needs and concerns
+## 2. Stakeholder needs and concerns
 Needs:
   1. Student-Know whether equipment is available
   2. Lecturer-Have equipment available for teaching
