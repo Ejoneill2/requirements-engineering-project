@@ -15,6 +15,12 @@
   Five useful questions: WHO, WHAT, WHEN, WHY, HOW WILL WE KNOW
   
 ## 4. Functional Requirements
+  "The technician needs to know whether equipment is available before confirming a booking.": 
+      WHO needs this? The Technician
+      WHAT does the system need to do? Check available equipment
+      WHEN does a condition apply?  Before confirming a booking
+      WHY is this needed? So equipment isnt double booked
+      HOW could we verify it? Test it
 ## 5. Quality Requirements
 ## 6.Project Application
 ## 7. Reflection
