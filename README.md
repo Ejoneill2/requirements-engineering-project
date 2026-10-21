@@ -1,7 +1,7 @@
 # requirements-engineering-project
 Individual Requirements Engineering project.
 ## Student
-Name: Your Name
+Name: Jack O Neill
 ## Module
 Requirements Engineering
 ## Project Status
